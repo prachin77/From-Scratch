@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.dist/
+dist/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+.env.*
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints & autosaves
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datasets and Large Data Folders
+training_data/
+testing_data/
+**/training_data/
+**/testing_data/
+*.gz
+*.ubyte
+*-ubyte*
+
+# Model checkpoints & weights
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+checkpoints/
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
