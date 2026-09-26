@@ -8,15 +8,15 @@ Instead of treating modern frameworks like black boxes, this series explores how
 
 ## 📚 Repository Roadmap & Topics
 
-| # | Topic | Directory / Notebook | Description | Tech Stack | Status |
-|---|-------|----------------------|-------------|------------|:------:|
-| 1 | **Linear Regression** | [`NeuralNetwork/LinearRegression/`](NeuralNetwork/LinearRegression/) | Single-variable linear regression predicting marks from study hours | PyTorch (`nn.Module`), Pandas, Matplotlib | ✅ Completed |
-| 2 | **Neural Network from Scratch** | [`NeuralNetwork/numpy_mnist.ipynb`](NeuralNetwork/numpy_mnist.ipynb) | Multi-class digit classification on the MNIST dataset | Pure NumPy, Math & Linear Algebra | ✅ Completed |
-| 3 | **Logistic Regression** | `Coming Soon` | Binary and multiclass classification with sigmoid & cross-entropy loss | NumPy / PyTorch | ⏳ In Progress |
-| 4 | **Multi-Layer Perceptron (MLP)** | `Coming Soon` | Fully-connected deep neural networks with activation functions & backpropagation | NumPy / PyTorch | 📅 Planned |
-| 5 | **Optimizers From Scratch** | `Coming Soon` | Implementing Gradient Descent, Momentum, RMSprop, and Adam | Pure Python & NumPy | 📅 Planned |
-| 6 | **Convolutional Neural Networks (CNN)** | `Coming Soon` | Convolutions, pooling, feature maps, and computer vision classification | PyTorch | 📅 Planned |
-| 7 | **Transformers & Attention** | `Coming Soon` | Self-attention mechanism, Multi-head attention, and Encoder-Decoder architecture | PyTorch | 📅 Planned |
+| # | Topic | Notebook | Colab | Description | Tech Stack | Status |
+|---|-------|----------|:-----:|-------------|------------|:------:|
+| 1 | **Linear Regression** | [`NeuralNetwork/LinearRegression/`](NeuralNetwork/LinearRegression/) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prachin77/From-Scratch/blob/main/NeuralNetwork/LinearRegression/linear_nn.ipynb) | Single-variable linear regression predicting marks from study hours | PyTorch (`nn.Module`), Pandas, Matplotlib | ✅ Completed |
+| 2 | **Neural Network from Scratch** | [`NeuralNetwork/numpy_mnist.ipynb`](NeuralNetwork/numpy_mnist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prachin77/From-Scratch/blob/main/NeuralNetwork/numpy_mnist.ipynb) | Multi-class digit classification on the MNIST dataset | Pure NumPy, Math & Linear Algebra | ✅ Completed |
+| 3 | **Logistic Regression** | `Coming Soon` | — | Binary and multiclass classification with sigmoid & cross-entropy loss | NumPy / PyTorch | ⏳ In Progress |
+| 4 | **Multi-Layer Perceptron (MLP)** | `Coming Soon` | — | Fully-connected deep neural networks with activation functions & backpropagation | NumPy / PyTorch | 📅 Planned |
+| 5 | **Optimizers From Scratch** | `Coming Soon` | — | Implementing Gradient Descent, Momentum, RMSprop, and Adam | Pure Python & NumPy | 📅 Planned |
+| 6 | **Convolutional Neural Networks (CNN)** | `Coming Soon` | — | Convolutions, pooling, feature maps, and computer vision classification | PyTorch | 📅 Planned |
+| 7 | **Transformers & Attention** | `Coming Soon` | — | Self-attention mechanism, Multi-head attention, and Encoder-Decoder architecture | PyTorch | 📅 Planned |
 
 ---
 
@@ -27,7 +27,7 @@ Make sure you have **Python 3.10+** installed on your system.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/From-Scratch.git
+git clone https://github.com/prachin77/From-Scratch.git
 cd From-Scratch
 ```
 
@@ -74,7 +74,7 @@ Community contributions and discussions are welcome! Whether you are catching a 
 1. **Fork** this repository to your GitHub account.
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/From-Scratch.git
+   git clone https://github.com/prachin77/From-Scratch.git
    ```
 3. **Create a new branch** for your feature or fix:
    ```bash
