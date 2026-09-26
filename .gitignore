@@ -39,8 +39,8 @@ venv.bak/
 */.ipynb_checkpoints/*
 
 # Datasets and Large Data Folders
-training_data/
-testing_data/
+NeuralNetwork\training_data
+NeuralNetwork\testing_data
 **/training_data/
 **/testing_data/
 *.gz
